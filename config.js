@@ -56,7 +56,7 @@ global.dygp = 'https://chat.whatsapp.com/FFF0ZEx3Odb9X54UjjZqGD'
 global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
 global.fgyt = 'https://youtube.com/@Cyber_PabuZa?si=uoQjF8Kw9nIenYFC'
 global.fgpyp = 'https://youtube.com/@Cyber_PabuZa?si=uoQjF8Kw9nIenYFC'
-global.fglog = 'https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png' 
+global.fglog = 'https://i.imgur.com/JRzPvdA.png' 
 
 //imagen
 global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
