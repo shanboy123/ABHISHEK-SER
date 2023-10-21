@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['+94764470310', 'Cyber PabuZa', false],
+  ['+947######', 'Cyber PabuZa', false],
   [''],
   [''] 
 ] //Number of owners
@@ -52,11 +52,11 @@ global.premium = 'true'
 global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️Cyber PabuZa' 
 global.author = 'ABHISHEK SURESH' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
-global.dygp = 'https://chat.whatsapp.com/FFF0ZEx3Odb9X54UjjZqGD'
+global.dygp = 'https://chat.whatsapp.com/BNkfwYU85wIC2YiLv0OeEL'
 global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
 global.fgyt = 'https://youtube.com/@Cyber_PabuZa?si=uoQjF8Kw9nIenYFC'
 global.fgpyp = 'https://youtube.com/@Cyber_PabuZa?si=uoQjF8Kw9nIenYFC'
-global.fglog = 'https://i.imgur.com/JRzPvdA.png' 
+global.fglog = 'https://telegra.ph/file/738023923e03901eeb990.jpg' 
 
 //imagen
 global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
